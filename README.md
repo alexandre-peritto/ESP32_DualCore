@@ -8,4 +8,5 @@ Porém minha intenção é utilizar o recurso através de biblioteca, passando por pa
 Poderia ser feito com a IDE do Arduino, mas para facilitar a programação com o intellicence e tirar vantagem das classes do C++ de forma mais simplificada estou utilizando a seguinte configuração:
 
 IDE: Visual Studio Community 2017 [https://www.visualstudio.com/pt-br/downloads/]
+
 Plugin Arduino: Visual Micro [http://www.visualmicro.com/]
